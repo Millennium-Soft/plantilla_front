@@ -6,11 +6,11 @@
 
 | Color | Código Hexadecimal |
 |-------|--------------------|
-| ![#797F8C](https://via.placeholder.com/15/797F8C/000000?text=+) | `#797F8C` |
-| ![#192A40](https://via.placeholder.com/15/192A40/000000?text=+) | `#192A40` |
-| ![#1B2E40](https://via.placeholder.com/15/1B2E40/000000?text=+) | `#1B2E40` |
-| ![#1C618C](https://via.placeholder.com/15/1C618C/000000?text=+) | `#1C618C` |
-| ![#F2F2F2](https://via.placeholder.com/15/F2F2F2/000000?text=+) | `#F2F2F2` |
+| ![#797F8C](https://placehold.co/20x20/797F8C/797F8C.png) | `#797F8C` |
+| ![#192A40](https://placehold.co/20x20/192A40/192A40.png) | `#192A40` |
+| ![#1B2E40](https://placehold.co/20x20/1B2E40/1B2E40.png) | `#1B2E40` |
+| ![#1C618C](https://placehold.co/20x20/1C618C/1C618C.png) | `#1C618C` |
+| ![#F2F2F2](https://placehold.co/20x20/F2F2F2/F2F2F2.png) | `#F2F2F2` |
 
 
 Esta plantilla ha sido desarrollada utilizando las siguientes tecnologías:
