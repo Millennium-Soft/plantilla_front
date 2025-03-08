@@ -2,6 +2,17 @@
 
 ![Logo de la MSFOT](https://firebasestorage.googleapis.com/v0/b/doctoradocienciasdelasaludusco.appspot.com/o/CARNETIZACION%2Fmsoft-250.png?alt=media&token=c7841b57-f0f0-42ca-a079-d1926963a811)
 
+# 🎨 Paleta de Colores
+
+| Color | Código Hexadecimal |
+|-------|--------------------|
+| <span style="display:inline-block;width:20px;height:20px;background-color:#797F8C;border-radius:5px;"></span> | `#797F8C` |
+| <span style="display:inline-block;width:20px;height:20px;background-color:#192A40;border-radius:5px;"></span> | `#192A40` |
+| <span style="display:inline-block;width:20px;height:20px;background-color:#1B2E40;border-radius:5px;"></span> | `#1B2E40` |
+| <span style="display:inline-block;width:20px;height:20px;background-color:#1C618C;border-radius:5px;"></span> | `#1C618C` |
+| <span style="display:inline-block;width:20px;height:20px;background-color:#F2F2F2;border:1px solid #ccc;border-radius:5px;"></span> | `#F2F2F2` |
+
+
 Esta plantilla ha sido desarrollada utilizando las siguientes tecnologías:
 
 - **Angular 15.2.11**  
