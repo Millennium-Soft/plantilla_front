@@ -1,6 +1,6 @@
 # Plantilla Front
 
-![Logo de la MSFOT](https://firebasestorage.googleapis.com/v0/b/doctoradocienciasdelasaludusco.appspot.com/o/CARNETIZACION%2Fmsoft.png?alt=media&token=9d33fffa-e9e4-4438-a5ad-2e8ce5dc596e)
+![Logo de la MSFOT](https://firebasestorage.googleapis.com/v0/b/doctoradocienciasdelasaludusco.appspot.com/o/CARNETIZACION%2Fmsoft-250.png?alt=media&token=c7841b57-f0f0-42ca-a079-d1926963a811)
 
 Esta plantilla ha sido desarrollada utilizando las siguientes tecnologías:
 
