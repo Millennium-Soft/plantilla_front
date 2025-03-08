@@ -6,11 +6,11 @@
 
 | Color | Código Hexadecimal |
 |-------|--------------------|
-| <span style="display:inline-block;width:20px;height:20px;background-color:#797F8C;border-radius:5px;"></span> | `#797F8C` |
-| <span style="display:inline-block;width:20px;height:20px;background-color:#192A40;border-radius:5px;"></span> | `#192A40` |
-| <span style="display:inline-block;width:20px;height:20px;background-color:#1B2E40;border-radius:5px;"></span> | `#1B2E40` |
-| <span style="display:inline-block;width:20px;height:20px;background-color:#1C618C;border-radius:5px;"></span> | `#1C618C` |
-| <span style="display:inline-block;width:20px;height:20px;background-color:#F2F2F2;border:1px solid #ccc;border-radius:5px;"></span> | `#F2F2F2` |
+| ![#797F8C](https://via.placeholder.com/15/797F8C/000000?text=+) | `#797F8C` |
+| ![#192A40](https://via.placeholder.com/15/192A40/000000?text=+) | `#192A40` |
+| ![#1B2E40](https://via.placeholder.com/15/1B2E40/000000?text=+) | `#1B2E40` |
+| ![#1C618C](https://via.placeholder.com/15/1C618C/000000?text=+) | `#1C618C` |
+| ![#F2F2F2](https://via.placeholder.com/15/F2F2F2/000000?text=+) | `#F2F2F2` |
 
 
 Esta plantilla ha sido desarrollada utilizando las siguientes tecnologías:
